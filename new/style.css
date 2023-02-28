@@ -1,0 +1,48 @@
+*{
+    /* background-color: rgb(216, 237, 237) */
+    background-color: plum;
+}
+input:hover{
+    color: rgb(12, 12, 37);
+}
+#ht{
+    margin:5px;
+    text-align: center;
+    color: gray;
+}
+#ht:hover{
+    color: black;
+}
+
+#btt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+
+}
+
+#ctt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+#dtt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+#ett{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+}
+.text{
+    background-color: rgb(226, 211, 216);
+}
